@@ -9,18 +9,18 @@ Usage:
 
 Download and install VM:
 
-   gem install vagrant -v 0.7.2 
+    gem install vagrant -v 0.7.2 
 
-   # This takes about 10-20 minutes
-   vagrant up
+    # This takes about 10-20 minutes
+    vagrant up
 
 View the app:
 
-   echo "10.5.5.5 app.dev" | sudo tee -a /etc/hosts
-   open "http://app.dev/users"
+    echo "10.5.5.5 app.dev" | sudo tee -a /etc/hosts
+    open "http://app.dev/users"
 
 Login and run tests:
 
-   vagrant ssh
-   rake
+    vagrant ssh
+    rake
 
