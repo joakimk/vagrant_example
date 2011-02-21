@@ -24,3 +24,8 @@ Login and run tests:
     vagrant ssh
     rake
 
+Gotchas
+-----
+
+If you get an error like this: [http://pastie.org/private/oz9zqqijksj8jx9cyk9pmw](http://pastie.org/private/oz9zqqijksj8jx9cyk9pmw), try running **vagrant reload**.
+
