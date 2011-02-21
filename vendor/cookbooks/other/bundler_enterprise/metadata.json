@@ -1,0 +1,33 @@
+{
+    "recommendations": {
+    },
+    "attributes": {
+    },
+    "platforms": {
+      "ubuntu": [
+      ],
+      "debian": [
+      ]      
+    },
+    "maintainer": "Joakim Kolsjö",
+    "long_description": "",
+    "suggestions": {
+    },
+    "dependencies": {
+    },
+    "recipes": {
+    },
+    "maintainer_email": "joakim.kolsjo;AT;gmail;DOT;com",
+    "version": "0.1.0",
+    "conflicting": {
+    },
+    "name": "bundler_enterprise",
+    "providing": {
+    },
+    "license": "Apache 2.0",
+    "replacing": {
+    },
+    "groupings": {
+    },
+    "description": "Install bundler using ruby_enterprise"
+  }

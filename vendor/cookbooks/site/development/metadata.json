@@ -1,0 +1,31 @@
+{
+    "recommendations": {
+    },
+    "attributes": {
+    },
+    "platforms": {
+      "ubuntu": [
+      ]
+    },
+    "maintainer": "Joakim Kolsjö",
+    "long_description": "",
+    "suggestions": {
+    },
+    "dependencies": {
+    },
+    "recipes": {
+    },
+    "maintainer_email": "joakim.kolsjo;AT;gmail;DOT;com",
+    "version": "0.1.0",
+    "conflicting": {
+    },
+    "name": "development",
+    "providing": {
+    },
+    "license": "Apache 2.0",
+    "replacing": {
+    },
+    "groupings": {
+    },
+    "description": "Setup development environment (project specific)"
+  }
