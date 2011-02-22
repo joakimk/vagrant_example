@@ -7,8 +7,12 @@ Vagrant 0.7.2 and VirtualBox 4.0.2.
 Usage:
 ----
 
-Download and install VM:
+Get [VirtualBox](http://www.virtualbox.org/).
 
+Download and install VM with vagrant:
+
+    git clone git://github.com/joakimk/vagrant_example.git
+    cd vagrant_example
     gem install vagrant -v 0.7.2 
 
     # This takes about 10-20 minutes
