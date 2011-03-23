@@ -9,13 +9,14 @@ Usage:
 
 Get [VirtualBox](http://www.virtualbox.org/).
 
-Download and install VM with vagrant:
+Download and install vagrant:
 
     git clone git://github.com/joakimk/vagrant_example.git
     cd vagrant_example
     gem install vagrant -v 0.7.2 
 
-    # This takes about 10-20 minutes and should look like this: [https://gist.github.com/883748](https://gist.github.com/883748).
+Create VM (this takes about 10-20 minutes and should look like this: [https://gist.github.com/883748](https://gist.github.com/883748)):
+
     vagrant up
 
 View the app:
