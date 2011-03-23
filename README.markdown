@@ -15,7 +15,7 @@ Download and install VM with vagrant:
     cd vagrant_example
     gem install vagrant -v 0.7.2 
 
-    # This takes about 10-20 minutes
+    # This takes about 10-20 minutes and should look like this: [https://gist.github.com/883748](https://gist.github.com/883748).
     vagrant up
 
 View the app:
